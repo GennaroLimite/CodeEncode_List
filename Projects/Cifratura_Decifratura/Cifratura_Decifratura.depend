@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1392897483 source:c:\users\genny\desktop\relazione_limite_gennaro\file c\cifratura_decifratura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+

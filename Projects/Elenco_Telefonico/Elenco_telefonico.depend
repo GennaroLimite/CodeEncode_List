@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1392805054 source:c:\users\genny\desktop\progetto2.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1392894680 source:c:\users\genny\desktop\relazione_limite_gennaro\elenco_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1392898746 source:c:\users\genny\documents\università\programmazione i\relazione_limite_gennaro\file c\elenco_telefonico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
